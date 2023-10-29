@@ -16,5 +16,5 @@ The application is easy to use and can be useful for anyone who needs to convert
 
 **GUI**
 
-<img align="right" alt="Coding" width="400" src="">
+<img align="left" alt="Coding" width="400" src="https://github.com/Jayavelrajan/CurrencyConverter/blob/97849c9d5d4e1748f3f56768c6aa0efa45c667d7/images/currConv.PNG">
 
